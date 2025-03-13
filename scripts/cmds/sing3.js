@@ -3,7 +3,7 @@ const noobs = 'xyz';
 
 module.exports = {
   config: {
-    name: "sing",
+    name: "sing3",
     version: "1.2",
     author: "Fahim_Noob",
     countDown: 5,
